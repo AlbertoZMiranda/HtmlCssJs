@@ -25,6 +25,22 @@
                 </td>
             </tr>
         </table>
+        <p>            
+        </p>
+        <form name="formulario1" action="#">
+            <fieldset>
+                <legend>
+                    Desde Donde Nos Sigues:
+                </legend>
+                Name: <input type="text" size="30" name="nombre"/>
+                <br/>
+                Email: <input type="text" size="30" name="email"/>
+                <br/>
+                <button type="submit">
+                    Enviar Datos
+                </button>                    
+            </fieldset>
+        </form>
     </body>
 </html>
 
