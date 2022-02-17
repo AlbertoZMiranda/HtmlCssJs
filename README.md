@@ -29,7 +29,9 @@
         </p>
         <table width="95%" border="1" bgcolor="aliceblue">
             <tr >
-                Frases HTML
+                <th></th>
+                <th>Frases HTML</th>
+                <th></th>                
             </tr>
             <tr>
                 <td><strong>Etiqueta</strong></td>
