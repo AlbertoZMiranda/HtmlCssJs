@@ -25,22 +25,75 @@
                 </td>
             </tr>
         </table>
-        <p>            
+        <p>
         </p>
-        <form name="formulario1" action="#">
-            <fieldset>
-                <legend>
-                    Desde Donde Nos Sigues:
-                </legend>
-                Name: <input type="text" size="30" name="nombre"/>
-                <br/>
-                Email: <input type="text" size="30" name="email"/>
-                <br/>
-                <button type="submit">
-                    Enviar Datos
-                </button>                    
-            </fieldset>
-        </form>
+        <table width="95%" border="1" bgcolor="aliceblue">
+            <tr >
+                <th>Frases HTML</th>
+            </tr>
+            <tr>
+                <td><strong>Etiqueta</strong></td>
+                <td><strong>Descripci&oacute;n</strong></td>
+                <td><strong><em>Ejemplo</em></strong></td>
+            </tr>
+            <tr>
+                <td><strong>EM</strong></td>
+                <td>Se utiliza para dar significado a una parte de un texto</td>
+                <td><em>Significado</em></td>
+            </tr>
+            <tr>
+                <td><strong>STRONG</strong></td>
+                <td>Se utiliza para resaltar elementos</td>
+                <td><strong>Resaltar</strong></td>
+            </tr>
+            <tr>
+                <td><strong>Q</strong></td>
+                <td>Se utiliza para poner Comillas</td>
+                <td><q>Comillas</q></td>
+            </tr>
+            <tr>
+                <td><strong>CODE</strong></td>
+                <td>Se utiliza para poner el texto como si fuera codigo de algun Lenguaje de Programacion</td>
+                <td><code>System.out.println</code></td>
+            </tr>
+            <tr>
+                <td><strong>ABBR</strong></td>
+                <td>Se utiliza para poner Abreviaciones</td>
+                <td><abbr>P&aacute;g.</abbr></td>
+            </tr>
+            <tr>
+                <td><strong>ACRONYM</strong></td>
+                <td>Se utiliza para poner acr&oacute;nimos</td>
+                <td>Acci&oacute;n</td>
+            </tr>
+            <tr>
+                <td><strong>DFN</strong></td>
+                <td>Se utiliza para poner definiciones</td>
+                <td><dfn>definici&oacute;n</dfn></td>
+            </tr>
+            <tr>
+                <td><strong>KBD</strong></td>
+                <td>Significa texto que debe ser introducido por el usuario</td>
+                <td>Ingresa <kbd>Cedula</kbd></td>
+            </tr>
+            <tr>
+                <td><strong>SAMP</strong></td>
+                <td>Se utiliza para mostrar un ejemplo de una salida de un programa</td>
+                <td><samp>Nombre: Andres</samp></td>
+            </tr>
+            <tr>
+                <td><strong>VAR</strong></td>
+                <td>Se utiliza para mostrar que el texto es una variable</td>
+                <td><var>Variable</var></td>
+            </tr>            
+        </table>
+        <p>
+        </p>
+        <select name="ProgramacionWeb">
+            <option>HTML5</option>
+            <option>CSS3</option>
+            <option>JS</option>
+        </select>
     </body>
 </html>
 
