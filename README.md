@@ -89,13 +89,49 @@
                 <td><var>Variable</var></td>
             </tr>            
         </table>
-        <p>
-        </p>
-        <select name="ProgramacionWeb">
-            <option>HTML5</option>
-            <option>CSS3</option>
-            <option>JS</option>
-        </select>
+        <h3>Marcadores de Fuentes</h3>
+        <table width="90%" border="1" bgcolor="aliceblue">
+            <tr>
+                <th>Etiqueta</th>
+                <th>Descripci&oacute;n</th>
+                <th>Ejemplo</th>
+            </tr>
+            <tr>
+                <td><b>B</b></td>
+                <td><em>Se utiliza para poner en negrita el texto</em></td>
+                <td><b>negrita</b></td>
+            </tr>
+            <tr>
+                <td><b>BIG</b></td>
+                <td><em><big><q>Para convertir una</q></big> fuente m&aacute;s grande</em></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><b>S</b></td>
+                <td><em>Para poner una raya en el texto</em></td>
+                <td><s>raya el texto</s></td>
+            </tr>
+            <tr>
+                <td><b>SMALL</b></td>
+                <td><em>Para hacer el texto <small><q>m&aacute;s peque&ntilde;o</q></small></em></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td><b>STRIKE</b></td>
+                <td><em>Poner una raya en el texto.</em></td>
+                <td><strike>Raya en el texto</strike></td>
+            </tr>
+            <tr>
+                <td><b>TT</b></td>
+                <td><em>Para dar <q><tt>formato de teletipo</tt></q> como se utiliza en los monitores o impresoras antiguas</em></td>
+                <td><tt>formato de teletipo</tt></td>
+            </tr>
+            <tr>
+                <td><b>U</b></td>
+                <td><em>Para subrayar una palabra</em></td>
+                <td><u>Subrayar</u></td>
+            </tr>
+        </table>
     </body>
 </html>
 
