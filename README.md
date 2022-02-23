@@ -132,33 +132,6 @@
                 <td><u>Subrayar</u></td>
             </tr>
         </table>
-        <h3>Fuentes en HTML</h3>
-        <table width="90%" border="1" bgcolor="aliceblue">
-            <tr>
-                <th>Etiquetas</th>
-                <th>Ejemplos</th>
-            </tr>
-            <tr>
-                <td>Arial,<br/>Georgia,<br/>times</td>
-                <td>
-                    <d1>
-                        <dt><b>Arial:</b></dt>
-                        <dd><font face="Arial" size="5">Este texto tiene fuente Arial y tama&ntilde;o 5.</font></dd>
-                        <dt><b>Georgia:</b></dt>
-                        <dd><font face="Georgia" size="5">Este texto tiene fuente Georgia y tama&ntilde;o 5.</font></dd>
-                        <dt><b>Times:</b></dt>
-                        <dd><font face="Times">Este texto tiene fuente Times sin expecificar el tama&ntilde;o.</font></dd>
-                    </d1>
-                </td>
-            </tr>
-            <tr>
-                <td><b>Courier</b></td>
-                <td>
-                    <font face="Courier" size="-2">Este texto tiene fuente Courier y tama&ntilde;o -2</font>
-                </td>
-            </tr>
-            
-        </table>
     </body>
 </html>
 
