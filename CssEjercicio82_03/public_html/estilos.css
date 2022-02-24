@@ -1,0 +1,39 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 24/02/2022, 4:34:57 p. m.
+    Author     : Alberto 2022
+*/
+body{
+    background: #256f5b;
+    font-family: "Arial Narrow";
+    color: white;
+}
+
+h1{
+    font-size:xx-large;
+    font-size: italic;
+}
+
+p{
+    font-weight: bolder;
+    background: #468b78;
+}
+
+/*
+Agregamos una nueva clase
+aplicable a cualquier elemento html
+*/
+
+.resaltado{
+    background: #9E354A;
+    font-weight:bold;
+}
+
+.nuevaClaseCss{
+    font-family: "Century Gothic";
+    font-weight:bold;
+    background: #4F0010;
+}
